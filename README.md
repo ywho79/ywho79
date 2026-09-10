@@ -12,10 +12,6 @@ A significant part of my recent work has been focused on **[Slim Bootloader](htt
 
 I have been involved in Slim Bootloader as an engineer, technical lead, speaker, and advocate for its adoption and development.
 
-I describe that part of my work simply as:
-
-**Slim Bootloader Evangelist.**
-
 My interest goes beyond developing the firmware itself. I want to make Slim Bootloader more accessible to firmware engineers through technical articles, presentations, demonstrations, and practical explanations of how it works.
 
 ## Areas of Experience
